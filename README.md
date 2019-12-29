@@ -1,10 +1,6 @@
 # My app 
-This is my app.
 
-
-# ConsultaWs
-
-Hosted on https://my-app.athome.com/
+This is my app hosted on https://my-app.athome.com/
 
 This project was generated with [Flask API](https://github.com/victor-cleber/myappsample) version 1.0.0.
 
